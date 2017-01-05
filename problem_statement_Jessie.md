@@ -7,7 +7,8 @@
 
 #####Given the candy value of each building in the city, find and print the minimum amount of time needed for Jessie to visit two candy shops if she starts from her house at coordinate .#####
 
-###Note:### #####The distance between two coordinates, i and j, is |i-j|.#####
+###Note:###
+#####The distance between two coordinates, i and j, is |i-j|.#####
 
 ###Input Format:###
 =======================================================================
