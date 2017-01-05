@@ -13,5 +13,8 @@
 
 ######Jessie always starts out from her house,  and buys her candies from  different shops. It takes her 1 second to move a distance of 1 unit when her hands are empty; once she makes her first candy purchase, it takes her k seconds to move a distance of 1 unit.######
 
-######Given the candy value of each building in the city, find and print the minimum amount of time needed for Jessie to visit two candy shops if she starts from her house.
+######Given the candy value of each building in the city, find and print the minimum amount of time needed for Jessie to visit two candy shops if she starts from her house. [More][1]
 ######
+[1] /problem_statement_Jessie.md "Problem Statement"
+
+
